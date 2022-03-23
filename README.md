@@ -1,0 +1,2 @@
+# KykjHospitalCustomImSDKSpec
+KykjHospitalCustomImSDKSpec索引文件
